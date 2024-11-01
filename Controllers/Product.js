@@ -13,7 +13,6 @@ exports.read = async (req , res) => {
     }
 } //การทำงานเป็นลำดับขั้น async / await
 
-
 exports.list =  async (req , res) => { 
     try{
         //code
